@@ -1,0 +1,41 @@
+.calculatorContainer {
+  width: 320px;
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+}
+.calculatorInput {
+  text-align: right;
+}
+.buttonsContainer {
+  display: flex;
+}
+.button {
+  height: 65px;
+  width: 80px;
+  background: #4d4d4d;
+  outline: 1px solid black;
+  border: none;
+  color: white;
+}
+.button:hover {
+  color: black;
+  outline: 0.05em solid grey;
+  z-index: 3;
+}
+.operatorButton {
+  background: #666666;
+  border: none;
+}
+.clearButton {
+  background: #ac3939;
+  width: 160px;
+  border: none;
+}
+.equalsButton {
+  background: #004466;
+  height: 130px;
+  border: none;
+}
