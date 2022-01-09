@@ -7,7 +7,3 @@ The project is available on the following link: [https://lerastarynets.github.io
 ## Technologies
 
 This Project demonstrates the following
-
-## Technologies
-
-## Thechnologies used in the project:
